@@ -10,7 +10,7 @@
 
 # Table of Content
 
-### [1. Burp Features](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/01%20-%20Burp%20Features)
+### [1. Burp Features](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/01%20Burp%20Features)
 ### [2. Burp Suite Editions](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/02%20-%20Editions)
 ### [3. Installing Burp Suite](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/03%20-%20Installation)
 ### [4. Burp Suite Dashboard](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/04%20-%20Dashboard)
