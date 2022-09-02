@@ -22,3 +22,15 @@
 - As can be seen in the table, each item in our list of payloads gets put into every position for each request. 
 
 - True to the name, Battering ram just throws payloads at the target to see what sticks.
+
+# Answer the questions below
+
+1. As a hypothetical question: you need to perform a Battering Ram Intruder attack on the example request above.
+
+If you have a wordlist with two words in it (admin and Guest) and the positions in the request template look like this:
+username=§pentester§&password=§Expl01ted§
+
+What would the body parameters of the first request that Burp Suite sends be?
+```
+username=admin&password=admin
+```
