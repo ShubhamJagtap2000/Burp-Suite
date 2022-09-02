@@ -14,3 +14,7 @@
    - **Add** lets us define new positions by highlighting them in the editor and clicking the button.
    - **Clear** removes all defined positions, leaving us with a blank canvas to define our own.
    - **Auto** attempts to select the most likely positions automatically; this is useful if we cleared the default positions and want them back.
+
+# Next section:
+
+- Please, head to the Intruder **[Attack Types](https://github.com/ShubhamJagtap2000/Burp-Suite/tree/main/10%20Attacks)** sectionn after this. Next section link is provided there.
